@@ -1,0 +1,14 @@
+package br.com.simnetwork.BotByCasseb.ddbs.model;
+
+public enum RecordStatus {
+
+	SUCESSO,
+	ENTIDADE_INEXISTENTE,
+	CHAVE_NULL,
+	CAMPO_OBRIGATORIO_NULL,
+	FORMATO_INCORRETO,
+	REGISTRO_JA_EXISTE,
+	REGISTRO_INEXISTENTE,
+	ITEM_VINCULADO_NAO_EXISTE
+	
+}

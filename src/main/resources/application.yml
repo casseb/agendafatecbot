@@ -1,0 +1,11 @@
+server:
+  port: 4567
+
+spring:
+  profiles:
+    active: prod
+    
+bot:
+  token: 464923665:AAH80Oct2iu4Lg8ax6ThS5w9NmXJ8Ew-0Wk
+  admin: 336050938
+  debug: false
