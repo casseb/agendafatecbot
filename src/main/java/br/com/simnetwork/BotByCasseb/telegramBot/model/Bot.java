@@ -30,7 +30,7 @@ public class Bot {
 	//private static String token = "458418970:AAGVmBBBzb8C_JN06fpHR0XCZiDbkVPxoro";
 	
 	//Oficial
-	private static String token = "564280595:AAFCxI0Cav8Nl3BcsLW9-HHRh5v072y2azc";
+	private static String token = "522292896:AAGftYq_vLZFvw25_2givAkqg28qkDlG6dE";
 	private static TelegramBot bot = TelegramBotAdapter.build(token);
 	
 	public static void sendMessage(String chatId, String text, Keyboard keyboard) {

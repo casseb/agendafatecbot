@@ -83,7 +83,7 @@ public class EasyWayServiceImpl implements EasyWayService {
 
 		try {
 			// URL oracle = new URL("http://dontpad.com/cassebotConf.txt");
-			URL oracle = new URL("http://dontpad.com/casseb/producao/Lorenzo.txt");
+			URL oracle = new URL("http://dontpad.com/casseb/producao/6Semestre.txt");
 			BufferedReader in = new BufferedReader(new InputStreamReader(oracle.openStream(), "UTF-8"));
 			String inputLine;
 			while ((inputLine = in.readLine()) != null)
